@@ -1,0 +1,8 @@
+Successfully built c8b337407e22
+Successfully tagged maliksblr92/server:latest
+docker run -p 49160:8080 -d maliksblr92/server:latest
+
+http://localhost:49160/user/register
+
+tutourial
+https://nodejs.org/fr/docs/guides/nodejs-docker-webapp/

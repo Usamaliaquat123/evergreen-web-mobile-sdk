@@ -1,0 +1,10 @@
+.custom-side-bar-li :hover{
+background-color:blueviolet;
+color: #fff;
+}
+.custom-side-bar-li a:hover{
+text-decoration: none!important;
+
+    }
+
+    

@@ -1,0 +1,29 @@
+{
+  "DryFruits":{
+     "img":"",
+     "categories":[
+        {
+           "Dates":{
+              "products":[
+               {  "Pakistani Khajoor":{"img":"","price":600}},
+               {  "Irani Rabbi  Khajoor":{"img":"","price":40}}
+              
+              ],
+              "img":""
+           },
+           "Shelled Nuts":{
+            "products":[
+              {  "Shelled Almonds":{"img":"","price":600}},
+              {  "Un Shlled Almonds":{"img":"","price":40}}
+             
+             ],
+              "img":""
+           }
+          
+        
+      }
+    ]
+      
+  }
+}
+      
